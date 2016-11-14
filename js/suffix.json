@@ -1,0 +1,123 @@
+// JSON Document
+//{"key":[["word part"],["meaning"],["sample word"]]}
+{"-able":
+ [
+	 ["can be done"],["comfortable"]
+ ],
+ "-ible":
+ [
+	 ["can be done"],["compatible"]
+ ],
+ "-al":
+ [
+	 ["having characteristics"]
+ ],
+ "-ial":
+ [
+	 ["having characteristics"]
+ ],
+ "-ed*":
+ [
+	 ["past-tense verbs"],["hopped"]
+ ],
+ "-en":
+ [
+	 ["made of"],["wooden"]
+ ],
+ "-er":
+ [
+	 ["comparative"],["higher"]
+ ],
+ "-est":
+ [
+	 ["comparative"],["biggest"]
+ ],
+ "-ful":
+ [
+	 ["full of"],["aweful"]
+ ],
+ "-ic":
+ [
+	 ["having characteristics of"],["linguistic"]
+ ],
+ "-ing*":
+ [
+	 ["verb form/present participle"],["running"]
+ ],
+ "-ion":
+ [
+	 ["act","process"],["occasion"]
+ ],
+ "-tion":
+ [
+	 ["act","process"],["attraction"]
+ ],
+ "-ation":
+ [
+	 ["act","process"],["anticipation"]
+ ],
+ "-ition":
+ [
+	 ["act","process"],["partition"]
+ ],
+ "-ity":
+ [
+	 ["state of"],["infinity"]
+ ],
+ "-ty":
+ [
+	 ["state of"],["treaty"]
+ ],
+ "-ive":
+ [
+	 ["adjective form of a noun"],["active"]
+ ],
+ "-ative":
+ [
+	 ["adjective form of a noun"],["affirmative"]
+ ],
+ "-itive":
+ [
+	 ["adjective form of a noun"],["inquisitive"]
+ ],
+ "-less":
+ [
+	 ["without"],["fearless"]
+ ],
+ "-ly*":
+ [
+	 ["characteristic of"],["quickly"]
+ ],
+ "-ment":
+ [
+	 ["action or process"],["enjoyment"]
+ ],
+ "-ness":
+ [
+	 ["state of","condition of"],["kindness"]
+ ],
+ "-ous":
+ [
+	 ["possessing the qualities of"],["joyous"]
+ ],
+ "-eous":
+ [
+	 ["possessing the qualities of"],["advantageous"]
+ ],
+ "-ious":
+ [
+	 ["possessing the qualities of"],["ambitious"]
+ ],
+ "-s*":
+ [
+	 ["more than one"],["books"]
+ ],
+ "-es*":
+ [
+	 ["more than one"],["boxes"]
+ ],
+ "-y":
+ [
+	 ["characterized by"],["happy"]
+ ]
+}

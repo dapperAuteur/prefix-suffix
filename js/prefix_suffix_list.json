@@ -1,0 +1,114 @@
+// JSON Document
+{"0":
+ [["anti-"],["against"],["antifreeze"],["prefix"]],
+ "1":
+ [["de-"],["opposite"],["defrost"],["prefix"]],
+ "2":
+ [["dis*-"],["not", "opposite of"],["disagree"],["prefix"]],
+ "3":
+ [["en-"],["cause to"],["encode"],["prefix"]],
+ "4":
+ [["em-"],["cause to"],["embrace"],["prefix"]],
+ "5":
+ [["fore-"],["before"],["forecase"],["prefix"]],
+ "6":
+ [["in-"],["in"],["infield"],["prefix"]],
+ "7":
+ [["im-"],["in"],["imbibe"],["prefix"]],
+ "8":
+ [["in-"],["not"],["injustice"],["prefix"]],
+ "9":
+ [["im-"],["not"],["impossible"],["prefix"]],
+ "10":
+ [["il-"],["not"],["illegal"],["prefix"]],
+ "11":
+ [["ir*-"],["not"],["irregular"],["prefix"]],
+ "12":
+ [["inter-"],["between"],["interact"],["prefix"]],
+ "13":
+ [["mid-"],["middle"],["midway"],["prefix"]],
+ "14":
+ [["mis-"],["wrongly"],["misfire"],["prefix"]],
+ "15":
+ [["non-"],["not"],["nonsense"],["prefix"]],
+ "16":
+ [["over-"],["over"],["overlook"],["prefix"]],
+ "17":
+ [["pre-"],["before"],["prefix"],["prefix"]],
+ "18":
+ [["re*-"],["again"],["return"],["prefix"]],
+ "19":
+ [["semi-"],["half"],["semicircle"],["prefix"]],
+ "20":
+ [["sub-"],["under"],["submarine"],["prefix"]],
+ "21":
+ [["super-"],["above"],["superstar"],["prefix"]],
+ "22":
+ [["trans-"],["accros"],["transgender"],["prefix"]],
+ "23":
+ [["un*-"],["not"],["unfriendly"],["prefix"]],
+ "24":
+ [["under-"],["under"],["undersea"],["prefix"]],
+ "25":
+ [["-able"],["can be done"],["comfortable"],["suffix"]],
+ "26":
+ [["-ible"],["can be done"],["compatible"],["suffix"]],
+ "27":
+ [["-al"],["having characteristics"],["suffix"]],
+ "28":
+ [["-ial"],["having characteristics"],["suffix"]],
+ "29":
+ [["-ed*"],["past-tense verbs"],["hopped"],["suffix"]],
+ "30":
+ [["-en"],["made of"],["wooden"],["suffix"]],
+ "31":
+ [["-er"],["comparative"],["higher"],["suffix"]],
+ "32":
+ [["-er"],["one who"],["worker", "actor"],["suffix"]],
+ "33":
+ [["-est"],["comparative"],["biggest"],["suffix"]],
+ "34":
+ [["-ful"],["full of"],["aweful"],["suffix"]],
+ "35":
+ [["-ic"],["having characteristics of"],["linguistic"],["suffix"]],
+ "36":
+ [["-ing*"],["verb form/present participle"],["running"],["suffix"]],
+ "37":
+ [["-ion"],["act","process"],["occasion"],["suffix"]],
+ "38":
+ [["-tion"],["act","process"],["attraction"],["suffix"]],
+ "39":
+ [["-ation"],["act","process"],["anticipation"],["suffix"]],
+ "40":
+ [["-ition"],["act","process"],["partition"],["suffix"]],
+ "41":
+ [["-ity"],["state of"],["infinity"],["suffix"]],
+ "42":
+ [["-ty"],["state of"],["treaty"],["suffix"]],
+ "43":
+ [["-ive"],["adjective form of a noun"],["active"],["suffix"]],
+ "44":
+ [["-ative"],["adjective form of a noun"],["affirmative"],["suffix"]],
+ "45":
+ [["-itive"],["adjective form of a noun"],["inquisitive"],["suffix"]],
+ "46":
+ [["-less"],["without"],["fearless"],["suffix"]],
+ "47":
+ [["-ly*"],["characteristic of"],["quickly"],["suffix"]],
+ "48":
+ [["-ment"],["action or process"],["enjoyment"],["suffix"]],
+ "49":
+ [["-ness"],["state of","condition of"],["kindness"],["suffix"]],
+ "50":
+ [["-ous"],["possessing the qualities of"],["joyous"],["suffix"]],
+ "51":
+ [["-eous"],["possessing the qualities of"],["advantageous"],["suffix"]],
+ "52":
+ [["-ious"],["possessing the qualities of"],["ambitious"],["suffix"]],
+ "53":
+ [["-s*"],["more than one"],["books"],["suffix"]],
+ "54":
+ [["-es*"],["more than one"],["boxes"],["suffix"]],
+ "55":
+ [["-y"],["characterized by"],["happy"],["suffix"]]
+}

@@ -1,0 +1,123 @@
+// JSON Document
+//{"key":[["word part"],["meaning"],["sample word"]]}
+{"1":
+ [
+	 ["-able"],["can be done"],["comfortable"]
+ ],
+ "2":
+ [
+	 ["-ible"],["can be done"],["compatible"]
+ ],
+ "3":
+ [
+	 ["-al"],["having characteristics"]
+ ],
+ "4":
+ [
+	 ["-ial"],["having characteristics"]
+ ],
+ "5":
+ [
+	 ["-ed*"],["past-tense verbs"],["hopped"]
+ ],
+ "6":
+ [
+	 ["-en"],["made of"],["wooden"]
+ ],
+ "7":
+ [
+	 ["-er"],["comparative"],["higher"]
+ ],
+ "8":
+ [
+	 ["-est"],["comparative"],["biggest"]
+ ],
+ "9":
+ [
+	 ["-ful"],["full of"],["aweful"]
+ ],
+ "10":
+ [
+	 ["-ic"],["having characteristics of"],["linguistic"]
+ ],
+ "11":
+ [
+	 ["-ing*"],["verb form/present participle"],["running"]
+ ],
+ "12":
+ [
+	 ["-ion"],["act","process"],["occasion"]
+ ],
+ "13":
+ [
+	 ["-tion"],["act","process"],["attraction"]
+ ],
+ "14":
+ [
+	 ["-ation"],["act","process"],["anticipation"]
+ ],
+ "15":
+ [
+	 ["-ition"],["act","process"],["partition"]
+ ],
+ "16":
+ [
+	 ["-ity"],["state of"],["infinity"]
+ ],
+ "17":
+ [
+	 ["-ty"],["state of"],["treaty"]
+ ],
+ "18":
+ [
+	 ["-ive"],["adjective form of a noun"],["active"]
+ ],
+ "19":
+ [
+	 ["-ative"],["adjective form of a noun"],["affirmative"]
+ ],
+ "20":
+ [
+	 ["-itive"],["adjective form of a noun"],["inquisitive"]
+ ],
+ "21":
+ [
+	 ["-less"],["without"],["fearless"]
+ ],
+ "22":
+ [
+	 ["-ly*"],["characteristic of"],["quickly"]
+ ],
+ "23":
+ [
+	 ["-ment"],["action or process"],["enjoyment"]
+ ],
+ "24":
+ [
+	 ["-ness"],["state of","condition of"],["kindness"]
+ ],
+ "25":
+ [
+	 ["-ous"],["possessing the qualities of"],["joyous"]
+ ],
+ "26":
+ [
+	 ["-eous"],["possessing the qualities of"],["advantageous"]
+ ],
+ "27":
+ [
+	 ["-ious"],["possessing the qualities of"],["ambitious"]
+ ],
+ "28":
+ [
+	 ["-s*"],["more than one"],["books"]
+ ],
+ "29":
+ [
+	 ["-es*"],["more than one"],["boxes"]
+ ],
+ "30":
+ [
+	 ["-y"],["characterized by"],["happy"]
+ ]
+}
