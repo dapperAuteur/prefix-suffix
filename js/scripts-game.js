@@ -3,44 +3,14 @@
 
 function prefix() {
 	//allow user to cycle through prefix flashcards
-	var flashCardFront = document.getElementById('flashCardFront');
-	flashCardFront.innerHTML = "prefix: super-";
-	var flashCardBack = document.getElementById('flashCardBack');
-	//flashCardBack.innerHTML = "meaning: above; sample word: superstar";
+	//
 }
-
-prefix();
 
 function suffix() {
 	//allow user to cycle through suffix flashcards
 }
 
-function readJSON() {
-	//read json file and then get called by other function to display in html
-	var request;
-	if (window.XMLHttpRequest) {
-		request = new XMLHttpRequest();
-	} else {
-		request = new ActiveXObject("Microsoft.XMLHTTP");
-	}
-	request.open('GET', './prefix_ver0002.json');
-	request.onreadystatechange = function() {
-		if ((request.readyState===4) && (request.status===200)) {
-			var items = JSON.parse(request.responseText);
-			var output = '<ul>';
-			for (var key in items) {
-				output += '<li>' + items[key].name + '</li>';
-			}
-			output += '</ul>';
-			document.getElementById('flashCardBack').innerHTML = output;
-		}
-	}
-	request.send();
-	
-}
-readJSON()
-
-function randomJsonObj() {
+function randomObj() {
 	//grab random object from json
 }
 
